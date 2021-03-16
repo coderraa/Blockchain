@@ -1,6 +1,7 @@
 # Blockchain
 **Author: Rahul Singh**
-Build Blockchain
+
+## Build Blockchain
 This is basics of how to build a blockchain from scratch. Focusing on the details of a concrete example will provide a deeper understanding of the strengths and limitations of blockchains.
 
 Transactions, Validation, and updating system state
