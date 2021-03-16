@@ -9,3 +9,6 @@ At its core, a blockchain is a distributed database with a set of rules for veri
 
 We’ll need to create a transaction pool of incoming transactions, validate those transactions, and make them into a block.
 
+![blockchain](https://user-images.githubusercontent.com/57325166/111261617-beb17400-8648-11eb-802a-6d479c70fa9b.png)
+
+
